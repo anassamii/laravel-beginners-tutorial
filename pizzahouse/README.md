@@ -1,3 +1,5 @@
+php artisan serve
+
 Needs :
 
 -   Migration file (to create a table)
