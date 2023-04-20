@@ -1,5 +1,10 @@
 php artisan serve
 
+login:
+
+-   samiianas000@gmail.com
+-   anassamii123
+
 Needs :
 
 -   Migration file (to create a table)
